@@ -1,0 +1,17 @@
+*{
+    margin: 3px;
+    padding: 2px;
+}
+#first{
+    color: white;
+    background-color: black;
+}
+.second{
+    font: bolder;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.third{
+    color: red;
+}
